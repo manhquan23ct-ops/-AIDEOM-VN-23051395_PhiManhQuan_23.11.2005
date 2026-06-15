@@ -1,6 +1,6 @@
 # 🇻🇳 AIDEOM-VN — AI-Driven Economic Optimization Model for Vietnam
 
-> Đồ án cuối kỳ · Môn: Các mô hình ra quyết định · Học viện Tài chính
+> Đồ án cuối kỳ · Môn: Các mô hình ra quyết định · Đại học Kinh tế - ĐHQGHN
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red)](https://streamlit.io)
